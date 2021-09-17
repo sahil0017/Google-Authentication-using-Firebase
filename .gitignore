@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/App.test.js
+/src/ServiceWorker.js
+/src/setupTest.js
+
 
 # testing
 /coverage
